@@ -1,4 +1,8 @@
 # Additional Colormaps for ANSYS Fluent
+
+**Not necessary in ANSYS Fluent 2020 Versions an above** - __Since they included these colormaps 😊__
+
+
 Just copy and paste the scheme code(s) to ANSYS Fluent console. Colormaps will be available and saved within the case and can be used as any other includes colormap.
 
 
